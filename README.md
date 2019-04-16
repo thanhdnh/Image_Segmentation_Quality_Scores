@@ -4,7 +4,7 @@ Let you evaluate the image segmentation quality scores, such TP, FP, TN, FN, Acc
 Copyright 2019 by Dang N. H. Thanh. Email: thanh.dnh.cs@gmail.com
 You need to install the statistics and Image Processing toolboxes
 
-Full reference of the scores, you can read here https://en.wikipedia.org/wiki/Precision_and_recall#Recall
+For the full reference of the scores, you can read here https://en.wikipedia.org/wiki/Precision_and_recall#Recall
 
 # HOW TO USE:
 1. Launch two images: a ground truth segmentation image and a acquired segmented image
