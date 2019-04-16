@@ -9,6 +9,8 @@ You need to install the statistics and Image Processing toolboxes
 A = imread('groundtruth.png');
 B = imread('segmented.png');
 2. If you only want to evaluate Accuracy, Sensitivity, Precision and MCC:
+
 [Accuracy, Sensitivity, Fmeasure, Precision, MCC] = confusion_components(A, B);
 3. If you want to evaluate all scores:
+
 [Accuracy, Sensitivity, Fmeasure, Precision, MCC, Dice, Jaccard] = image_segmentation_scores(A,B)
