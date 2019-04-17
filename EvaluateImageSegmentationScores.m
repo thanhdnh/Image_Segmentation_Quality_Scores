@@ -20,7 +20,7 @@ function [Accuracy, Sensitivity, Fmeasure, Precision, MCC, Dice, Jaccard] = Eval
     if(isa(B,'logical'))
         Y = B;
     else
-        B = imbinarize(B);
+        Y = imbinarize(B);
     end
     
     % Evaluate TP, TN, FP, FN
