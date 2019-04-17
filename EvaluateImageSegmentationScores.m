@@ -1,7 +1,7 @@
 function [Accuracy, Sensitivity, Fmeasure, Precision, MCC, Dice, Jaccard] = EvaluateImageSegmentationScores(A, B)
     % Copyright 2019 by Dang N. H. Thanh. Email: thanh.dnh.cs@gmail.com
     % Visit my site: https://sites.google.com/view/crx/sdm
-    % You need to install the statistics toolbox
+    % You need to install the image processing toolbox
     % ===================================================================
     % A and B need to be binary images
     % A is the ground truth, B is the segmented result.
