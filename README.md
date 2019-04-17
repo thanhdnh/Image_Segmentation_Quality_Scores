@@ -10,10 +10,6 @@ For the full reference of the scores, you can read here https://en.wikipedia.org
 1. Launch two images: a ground truth segmentation image and a acquired segmented image
 A = imread('groundtruth.png');
 B = imread('segmented.png');
-2. If you only want to evaluate Accuracy, Sensitivity, Precision and MCC:
+2. If you want to evaluate all scores:
 
-`[Accuracy, Sensitivity, Fmeasure, Precision, MCC] = confusion_components(A, B);`
-
-3. If you want to evaluate all scores:
-
-`[Accuracy, Sensitivity, Fmeasure, Precision, MCC, Dice, Jaccard] = image_segmentation_scores(A,B)`
+`[Accuracy, Sensitivity, Fmeasure, Precision, MCC, Dice, Jaccard] = EvaluateImageSegmentationScores(A, B)`
