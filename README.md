@@ -1,5 +1,5 @@
 # Image Segmentation Quality Scores
-Let you evaluate the image segmentation quality scores, such TP, FP, TN, FN, Accuracy, Sensitivity, Precision, MCC, Dice, Jaccard
+Let you evaluate the image segmentation quality scores, such as TP, FP, TN, FN, Accuracy, Sensitivity, Precision, MCC, Dice, Jaccard
 
 Copyright 2019 by Dang N. H. Thanh. Email: thanh.dnh.cs@gmail.com
 You need to install the statistics and Image Processing toolboxes
