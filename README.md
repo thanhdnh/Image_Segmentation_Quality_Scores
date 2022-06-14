@@ -16,10 +16,8 @@ B = imread('segmented.png');
 
 # Please cite the following papers:
 
-Thanh, D. N. H., et al. “BLOOD VESSELS SEGMENTATION METHOD FOR RETINAL FUNDUS IMAGES BASED ON ADAPTIVE PRINCIPAL CURVATURE AND IMAGE DERIVATIVE OPERATORS.” ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, vol. XLII-2/W12, Copernicus GmbH, May 2019, pp. 211–18, doi:10.5194/isprs-archives-xlii-2-w12-211-2019.
+Thanh, Dang N. H., et al. (2020), “Melanoma Skin Cancer Detection Method Based on Adaptive Principal Curvature, Colour Normalisation and Feature Extraction with the ABCD Rule.” Journal of Digital Imaging, vol. 33, no. 3, pp. 574–85, doi:10.1007/s10278-019-00316-x.
 
-Thanh, Dang N. H., et al. “A Skin Lesion Segmentation Method for Dermoscopic Images Based on Adaptive Thresholding with Normalization of Color Models.” 2019 6th International Conference on Electrical and Electronics Engineering (ICEEE), IEEE, 2019, doi:10.1109/iceee2019.2019.00030.
+Thanh, Dang N. H., et al. (2021), “Skin Lesion Segmentation Method for Dermoscopic Images with Convolutional Neural Networks and Semantic Segmentation.” Computer Optics, vol. 45, no. 1, pp. 122–29, doi:10.18287/2412-6179-co-748.
 
-Thanh, Dang N. H., et al. “Melanoma Skin Cancer Detection Method Based on Adaptive Principal Curvature, Colour Normalisation and Feature Extraction with the ABCD Rule.” Journal of Digital Imaging, Springer Science and Business Media LLC, Dec. 2019, doi:10.1007/s10278-019-00316-x.
-
-Thanh, Dang N. H., et al. “Skin Lesion Segmentation Method for Dermoscopic Images with Convolutional Neural Networks and Semantic Segmentation.” Computer Optics, vol. 45, no. 1, Samara State National Research University, Feb. 2021, pp. 122–29, doi:10.18287/2412-6179-co-748.
+Thanh, Dang N. H., et al. (2021), “Dermoscopic Image Segmentation Method Based on Convolutional Neural Networks.” International Journal of Computer Applications in Technology, vol. 66, no. 2, p. 89, doi:10.1504/ijcat.2021.10043447.
